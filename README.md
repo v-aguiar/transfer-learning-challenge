@@ -1,7 +1,3 @@
-Desculpe pela confusão! Aqui está o **README completo** para o seu projeto, com todas as instruções detalhadas e a estrutura bem organizada. Este documento será útil para quem for acessar o repositório e usar seu código.
-
----
-
 # Classificação de Imagens: Liquidificadores vs Batedeiras
 
 Este projeto utiliza redes neurais convolucionais (CNNs) com o modelo pré-treinado **MobileNetV2** para classificar imagens de dois tipos de objetos: **liquidificadores** e **batedeiras**. O código foi desenvolvido em Python utilizando o **TensorFlow** e pode ser facilmente executado em ambientes como **Google Colab**.
